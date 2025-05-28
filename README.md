@@ -1,6 +1,6 @@
 #  empleados-API
 
-> API RESTful desarrollada con **Node.js**, **Express** y **MongoDB/Mongoose** para gestionar empresas y empleados.  
+API RESTful desarrollada con **Node.js**, **Express** y **MongoDB/Mongoose** para gestionar empresas y empleados.  
 Este proyecto forma parte de una aplicación más amplia basada en la arquitectura **MERN**.
 
 ## Descripción del Proyecto
@@ -11,7 +11,6 @@ Esta API permite gestionar información sobre **empresas** y sus **empleados**, 
 - Crear, leer, actualizar y eliminar **empleados**
 - Listar los **empleados asociados a una empresa**
 
----
 
 ## Tecnologías Utilizadas
 
@@ -22,8 +21,6 @@ Esta API permite gestionar información sobre **empresas** y sus **empleados**, 
 | MongoDB        | 5.x o Atlas      |
 | Mongoose       | ^7.x             |
 | Nodemon (dev)  | ^3.x             |
-
----
 
 ##  Instrucciones de Instalación
 
@@ -51,7 +48,6 @@ MONGO_URI=mongodb://localhost:27017/empleadosDB
 
 > Reemplaza la URI si usas **MongoDB Atlas**.
 
----
 
 ##  Iniciar el Proyecto
 
